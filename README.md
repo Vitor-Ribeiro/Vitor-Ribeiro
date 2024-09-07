@@ -28,7 +28,7 @@ Este é um projeto de dashboard com múltiplos estilos, responsivo e intuitivo. 
 ## 📫 Como me encontrar
 
 - GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-- Email: [seu-email@example.com](mailto:seu-email@example.com)
+- LinkedIn: https://www.linkedin.com/in/vitor-souza-ribeiro-694971225/(https://linkedin.com/in/seu-usuario)
+- Email: vittoribeiro12@gmail.com(mailto:seu-email@example.com)
 
 
