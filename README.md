@@ -21,7 +21,7 @@ Sou um desenvolvedor focado em criar soluções eficientes e interfaces intuitiv
 
 ## 🌟 Projeto em Destaque
 
-### [Dashboard Project](https://github.com/seu-usuario/dashboard-project)
+### [Dashboard Project]https://github.com/Vitor-Ribeiro/Dashboard-react
 
 Este é um projeto de dashboard com múltiplos estilos, responsivo e intuitivo. Desenvolvido com **React**, **TailwindCSS**, e **Remix**, o projeto apresenta gráficos interativos e tabelas customizáveis. Veja o código e mais detalhes no repositório!
 
