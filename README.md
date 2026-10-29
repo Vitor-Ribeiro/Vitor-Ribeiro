@@ -19,12 +19,6 @@ I am a developer focused on creating efficient solutions and intuitive interface
   - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   - ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
-## 🌟 Featured Project
-
-### https://github.com/Vitor-Ribeiro/Dashboard-react
-
-This is a responsive and intuitive dashboard project with multiple styles. Built with **React**, **TailwindCSS**, and **Remix**, it features interactive charts and customizable tables. Check out the code and more details in the repository!
-
 ## 📫 How to find me
 
 - LinkedIn: https://www.linkedin.com/in/vitor-souza-ribeiro-694971225/
